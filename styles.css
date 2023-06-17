@@ -12,7 +12,7 @@ body{
 }
 .card{
     display: flex;align-items: center;flex-direction: column;
-    width: 280px;height: 200px;margin: 30px;
+    width: 280px;height: 200px;margin: 30px;margin-bottom: 40px;
 }
 
 .logo{
